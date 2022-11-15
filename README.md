@@ -1,6 +1,9 @@
 # SumList
 
-**TODO: Add description**
+## Description
+
+Module learned at Rocketseat Ignite Elixir course.
+Returns the sum of all elements in a List.
 
 ## Installation
 
